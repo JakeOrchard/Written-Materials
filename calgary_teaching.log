@@ -1,0 +1,1934 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.27)  10 JAN 2022 18:52
+entering extended mode
+**./calgary_teaching.tex
+(calgary_teaching.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-07-12>
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size11.clo
+File: size11.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.s
+ty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.s
+ty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pdftexcmds\pdftex
+cmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\infware
+rr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetke
+ys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys\kvde
+finekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pdfescape\pdfesca
+pe.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/letltxmacro\letltxm
+acro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvoptions\kvoptions
+.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen139
+\Hy@linkcounter=\count190
+\Hy@pagecounter=\count191
+
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref-l
+angpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/generic/intcalc\intcalc.s
+ty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/generic/etexcmds\etexcmds
+.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count192
+
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count193
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen140
+
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bigintcalc\bigint
+calc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count194
+\Field@Width=\dimen141
+\Fld@charsize=\dimen142
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\atbegshi-ltx.s
+ty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count195
+\c@Item=\count196
+\c@Hfootnote=\count197
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.de
+f
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\atveryend-ltx.
+sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count198
+\c@bookmark@seq@number=\count199
+
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/rerunfilecheck\reru
+nfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/generic/uniquecounter\uni
+quecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip49
+)
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.s
+ty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count266
+\Gm@cntv=\count267
+\c@Gm@tempcnt=\count268
+\Gm@bindingoffset=\dimen143
+\Gm@wd@mp=\dimen144
+\Gm@odd@mp=\dimen145
+\Gm@even@mp=\dimen146
+\Gm@layoutwidth=\dimen147
+\Gm@layoutheight=\dimen148
+\Gm@layouthoffset=\dimen149
+\Gm@layoutvoffset=\dimen150
+\Gm@dimlist=\toks17
+
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.c
+fg))
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen151
+\ar@mcellbox=\box50
+\extrarowheight=\dimen152
+\NC@list=\toks18
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box51
+)
+\TX@col@width=\dimen153
+\TX@old@table=\dimen154
+\TX@old@col=\dimen155
+\TX@target=\dimen156
+\TX@delta=\dimen157
+\TX@cols=\count269
+\TX@ftn=\toks19
+)
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdfpages\pdfpages.s
+ty
+Package: pdfpages 2021/03/06 v0.5t Insert pages of external PDF documents (AM)
+ (C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+) (C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count270
+\calc@Bcount=\count271
+\calc@Adimen=\dimen158
+\calc@Bdimen=\dimen159
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count272
+\calc@Cskip=\skip54
+)
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen160
+\ESO@tempdimb=\dimen161
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.
+cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex
+.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
+ty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
+ty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
+cs.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen162
+\Gin@req@width=\dimen163
+)
+\AM@pagewidth=\dimen164
+\AM@pageheight=\dimen165
+\AM@fboxrule=\dimen166
+
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdfpages\pppdftex.d
+ef
+File: pppdftex.def 2021/03/06 v0.5t Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count273
+\AM@pagebox=\box52
+\AM@global@opts=\toks20
+\AM@pagecnt=\count274
+\AM@toc@title=\toks21
+\c@AM@survey=\count275
+\AM@templatesizebox=\box53
+)
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\mathpazo.sty
+Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup4
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 39.
+
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/sectsty\sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+
+LaTeX Warning: Command \underbar  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \underline  has changed.
+               Check if current package is valid.
+
+)
+LaTeX Font Info:    Trying to load font information for T1+pplj on input line 8
+0.
+ (C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1pplj.fd
+File: t1pplj.fd 2004/09/06 font definitions for T1/pplj.
+)
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backend
+-pdftex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count276
+\l__pdf_internal_box=\box54
+) (calgary_teaching.aux)
+\openout1 = `calgary_teaching.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+Package hyperref Info: Link coloring ON on input line 80.
+
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.st
+y
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/refcount\refcount.s
+ty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/generic/gettitlestring\ge
+ttitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count277
+)
+LaTeX Info: Redefining \ref on input line 80.
+LaTeX Info: Redefining \pageref on input line 80.
+LaTeX Info: Redefining \nameref on input line 80.
+ (calgary_teaching.out) (calgary_teaching.out)
+\@outlinefile=\write3
+\openout3 = `calgary_teaching.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75499pt, 72.27002pt)
+* v-part:(T,H,B)=(90.3375pt, 614.295pt, 90.3375pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75499pt
+* \textheight=614.295pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-18.9325pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pd
+f.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count278
+\scratchdimen=\dimen167
+\scratchbox=\box55
+\nofMPsegments=\count279
+\nofMParguments=\count280
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count281
+\MPscratchDim=\dimen168
+\MPnumerator=\count282
+\makeMPintoPDFobject=\count283
+\everyMPtoPDFconversion=\toks23
+)
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstop
+df-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\epstopdf-s
+ys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdflscape\pdflscape
+.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(C:\Users\orcha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+\big@size=\dimen169
+ [1
+
+{C:/Users/orcha/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<research_statement.pdf, id=9, 614.295pt x 794.97pt>
+File: research_statement.pdf Graphic file (type pdf)
+<use research_statement.pdf>
+Package pdftex.def Info: research_statement.pdf  used on input line 85.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: research_statement.pdf Graphic file (type pdf)
+<use research_statement.pdf>
+Package pdftex.def Info: research_statement.pdf  used on input line 85.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<research_statement.pdf, id=12, page=1, 614.295pt x 794.97pt>
+File: research_statement.pdf Graphic file (type pdf)
+<use research_statement.pdf, page 1>
+Package pdftex.def Info: research_statement.pdf , page1 used on input line 85.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: research_statement.pdf Graphic file (type pdf)
+<use research_statement.pdf, page 1>
+Package pdftex.def Info: research_statement.pdf , page1 used on input line 85.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: research_statement.pdf Graphic file (type pdf)
+<use research_statement.pdf, page 1>
+Package pdftex.def Info: research_statement.pdf , page1 used on input line 85.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: research_statement.pdf Graphic file (type pdf)
+<use research_statement.pdf, page 1>
+Package pdftex.def Info: research_statement.pdf , page1 used on input line 85.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: research_statement.pdf Graphic file (type pdf)
+<use research_statement.pdf, page 1>
+Package pdftex.def Info: research_statement.pdf , page1 used on input line 85.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+
+[2 <./research_statement.pdf>]
+<research_statement.pdf, id=36, page=2, 614.295pt x 794.97pt>
+File: research_statement.pdf Graphic file (type pdf)
+<use research_statement.pdf, page 2>
+Package pdftex.def Info: research_statement.pdf , page2 used on input line 85.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: research_statement.pdf Graphic file (type pdf)
+<use research_statement.pdf, page 2>
+Package pdftex.def Info: research_statement.pdf , page2 used on input line 85.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: research_statement.pdf Graphic file (type pdf)
+<use research_statement.pdf, page 2>
+Package pdftex.def Info: research_statement.pdf , page2 used on input line 85.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [3 <./research_statement.pdf>]
+<diversity_statement.pdf, id=53, 614.295pt x 794.97pt>
+File: diversity_statement.pdf Graphic file (type pdf)
+<use diversity_statement.pdf>
+Package pdftex.def Info: diversity_statement.pdf  used on input line 86.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: diversity_statement.pdf Graphic file (type pdf)
+<use diversity_statement.pdf>
+Package pdftex.def Info: diversity_statement.pdf  used on input line 86.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<diversity_statement.pdf, id=56, page=1, 614.295pt x 794.97pt>
+File: diversity_statement.pdf Graphic file (type pdf)
+<use diversity_statement.pdf, page 1>
+Package pdftex.def Info: diversity_statement.pdf , page1 used on input line 86.
+
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: diversity_statement.pdf Graphic file (type pdf)
+<use diversity_statement.pdf, page 1>
+Package pdftex.def Info: diversity_statement.pdf , page1 used on input line 86.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: diversity_statement.pdf Graphic file (type pdf)
+<use diversity_statement.pdf, page 1>
+Package pdftex.def Info: diversity_statement.pdf , page1 used on input line 86.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: diversity_statement.pdf Graphic file (type pdf)
+<use diversity_statement.pdf, page 1>
+Package pdftex.def Info: diversity_statement.pdf , page1 used on input line 86.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: diversity_statement.pdf Graphic file (type pdf)
+<use diversity_statement.pdf, page 1>
+Package pdftex.def Info: diversity_statement.pdf , page1 used on input line 86.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [4 <./diversity_statement.pdf>]
+<diversity_statement.pdf, id=78, page=2, 614.295pt x 794.97pt>
+File: diversity_statement.pdf Graphic file (type pdf)
+<use diversity_statement.pdf, page 2>
+Package pdftex.def Info: diversity_statement.pdf , page2 used on input line 86.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: diversity_statement.pdf Graphic file (type pdf)
+<use diversity_statement.pdf, page 2>
+Package pdftex.def Info: diversity_statement.pdf , page2 used on input line 86.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: diversity_statement.pdf Graphic file (type pdf)
+<use diversity_statement.pdf, page 2>
+Package pdftex.def Info: diversity_statement.pdf , page2 used on input line 86.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [5 <./diversity_statement.pdf>]
+<teaching_statement.pdf, id=83, 614.295pt x 794.97pt>
+File: teaching_statement.pdf Graphic file (type pdf)
+<use teaching_statement.pdf>
+Package pdftex.def Info: teaching_statement.pdf  used on input line 87.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: teaching_statement.pdf Graphic file (type pdf)
+<use teaching_statement.pdf>
+Package pdftex.def Info: teaching_statement.pdf  used on input line 87.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<teaching_statement.pdf, id=86, page=1, 614.295pt x 794.97pt>
+File: teaching_statement.pdf Graphic file (type pdf)
+<use teaching_statement.pdf, page 1>
+Package pdftex.def Info: teaching_statement.pdf , page1 used on input line 87.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: teaching_statement.pdf Graphic file (type pdf)
+<use teaching_statement.pdf, page 1>
+Package pdftex.def Info: teaching_statement.pdf , page1 used on input line 87.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: teaching_statement.pdf Graphic file (type pdf)
+<use teaching_statement.pdf, page 1>
+Package pdftex.def Info: teaching_statement.pdf , page1 used on input line 87.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: teaching_statement.pdf Graphic file (type pdf)
+<use teaching_statement.pdf, page 1>
+Package pdftex.def Info: teaching_statement.pdf , page1 used on input line 87.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: teaching_statement.pdf Graphic file (type pdf)
+<use teaching_statement.pdf, page 1>
+Package pdftex.def Info: teaching_statement.pdf , page1 used on input line 87.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [6 <./teaching_statement.pdf>]
+<teaching_statement.pdf, id=111, page=2, 614.295pt x 794.97pt>
+File: teaching_statement.pdf Graphic file (type pdf)
+<use teaching_statement.pdf, page 2>
+Package pdftex.def Info: teaching_statement.pdf , page2 used on input line 87.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: teaching_statement.pdf Graphic file (type pdf)
+<use teaching_statement.pdf, page 2>
+Package pdftex.def Info: teaching_statement.pdf , page2 used on input line 87.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: teaching_statement.pdf Graphic file (type pdf)
+<use teaching_statement.pdf, page 2>
+Package pdftex.def Info: teaching_statement.pdf , page2 used on input line 87.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+
+[7 <./teaching_statement.pdf>]
+<Ta_evaluations_all.pdf, id=123, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf>
+Package pdftex.def Info: Ta_evaluations_all.pdf  used on input line 88.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf>
+Package pdftex.def Info: Ta_evaluations_all.pdf  used on input line 88.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<Ta_evaluations_all.pdf, id=126, page=1, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 1>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page1 used on input line 88.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 1>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page1 used on input line 88.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 1>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page1 used on input line 88.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 1>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page1 used on input line 88.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 1>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page1 used on input line 88.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [8 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=140, page=2, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 2>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page2 used on input line 88.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 2>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page2 used on input line 88.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 2>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page2 used on input line 88.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [9 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=157, page=3, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 3>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page3 used on input line 88.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 3>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page3 used on input line 88.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 3>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page3 used on input line 88.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [10 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=168, page=4, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 4>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page4 used on input line 88.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 4>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page4 used on input line 88.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 4>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page4 used on input line 88.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [11 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=176, page=5, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 5>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page5 used on input line 88.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 5>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page5 used on input line 88.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 5>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page5 used on input line 88.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+
+[12 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=189, page=6, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 6>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page6 used on input line 88.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 6>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page6 used on input line 88.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 6>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page6 used on input line 88.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [13 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=207, page=7, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 7>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page7 used on input line 88.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 7>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page7 used on input line 88.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 7>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page7 used on input line 88.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [14 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=218, page=8, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 8>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page8 used on input line 88.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 8>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page8 used on input line 88.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 8>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page8 used on input line 88.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [15 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=226, page=9, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 9>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page9 used on input line 88.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 9>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page9 used on input line 88.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 9>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page9 used on input line 88.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [16 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=239, page=10, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 10>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page10 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 10>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page10 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 10>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page10 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [17 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=256, page=11, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 11>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page11 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 11>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page11 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 11>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page11 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [18 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=267, page=12, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 12>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page12 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 12>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page12 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 12>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page12 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [19 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=276, page=13, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 13>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page13 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 13>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page13 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 13>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page13 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [20 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=289, page=14, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 14>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page14 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 14>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page14 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 14>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page14 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [21 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=306, page=15, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 15>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page15 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 15>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page15 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 15>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page15 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [22 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=317, page=16, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 16>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page16 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 16>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page16 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 16>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page16 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [23 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=325, page=17, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 17>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page17 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 17>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page17 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 17>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page17 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [24 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=338, page=18, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 18>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page18 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 18>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page18 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 18>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page18 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [25 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=356, page=19, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 19>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page19 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 19>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page19 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 19>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page19 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [26 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=367, page=20, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 20>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page20 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 20>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page20 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 20>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page20 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [27 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=375, page=21, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 21>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page21 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 21>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page21 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 21>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page21 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [28 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=386, page=22, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 22>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page22 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 22>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page22 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 22>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page22 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [29 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=403, page=23, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 23>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page23 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 23>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page23 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 23>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page23 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [30 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=414, page=24, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 24>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page24 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 24>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page24 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 24>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page24 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [31 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=423, page=25, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 25>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page25 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 25>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page25 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 25>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page25 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [32 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=436, page=26, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 26>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page26 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 26>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page26 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 26>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page26 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [33 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=453, page=27, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 27>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page27 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 27>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page27 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 27>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page27 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+
+[34 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=464, page=28, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 28>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page28 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 28>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page28 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 28>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page28 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [35 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=472, page=29, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 29>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page29 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 29>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page29 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 29>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page29 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [36 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=485, page=30, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 30>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page30 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 30>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page30 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 30>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page30 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [37 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=503, page=31, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 31>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page31 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 31>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page31 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 31>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page31 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [38 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=514, page=32, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 32>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page32 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 32>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page32 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 32>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page32 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [39 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=522, page=33, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 33>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page33 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 33>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page33 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 33>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page33 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [40 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=535, page=34, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 34>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page34 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 34>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page34 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 34>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page34 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [41 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=552, page=35, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 35>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page35 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 35>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page35 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 35>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page35 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [42 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=563, page=36, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 36>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page36 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 36>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page36 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 36>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page36 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [43 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=572, page=37, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 37>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page37 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 37>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page37 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 37>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page37 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [44 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=585, page=38, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 38>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page38 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 38>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page38 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 38>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page38 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [45 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=602, page=39, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 39>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page39 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 39>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page39 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 39>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page39 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [46 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=613, page=40, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 40>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page40 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 40>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page40 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 40>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page40 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [47 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=621, page=41, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 41>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page41 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 41>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page41 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 41>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page41 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [48 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=634, page=42, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 42>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page42 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 42>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page42 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 42>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page42 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [49 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=652, page=43, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 43>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page43 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 43>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page43 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 43>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page43 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [50 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=663, page=44, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 44>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page44 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 44>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page44 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 44>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page44 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [51 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=671, page=45, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 45>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page45 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 45>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page45 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 45>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page45 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [52 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=682, page=46, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 46>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page46 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 46>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page46 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 46>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page46 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [53 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=699, page=47, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 47>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page47 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 47>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page47 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 47>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page47 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [54 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=710, page=48, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 48>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page48 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 48>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page48 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 48>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page48 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [55 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=719, page=49, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 49>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page49 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 49>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page49 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 49>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page49 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+
+[56 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=732, page=50, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 50>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page50 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 50>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page50 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 50>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page50 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [57 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=749, page=51, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 51>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page51 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 51>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page51 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 51>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page51 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [58 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=760, page=52, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 52>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page52 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 52>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page52 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 52>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page52 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [59 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=768, page=53, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 53>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page53 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 53>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page53 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 53>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page53 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [60 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=781, page=54, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 54>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page54 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 54>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page54 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 54>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page54 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [61 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=790, page=55, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 55>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page55 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 55>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page55 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 55>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page55 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [62 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=807, page=56, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 56>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page56 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 56>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page56 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 56>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page56 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [63 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=818, page=57, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 57>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page57 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 57>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page57 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 57>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page57 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [64 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=826, page=58, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 58>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page58 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 58>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page58 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 58>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page58 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [65 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=839, page=59, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 59>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page59 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 59>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page59 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 59>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page59 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [66 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=847, page=60, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 60>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page60 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 60>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page60 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 60>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page60 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [67 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=865, page=61, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 61>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page61 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 61>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page61 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 61>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page61 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [68 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=876, page=62, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 62>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page62 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 62>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page62 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 62>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page62 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [69 <./Ta_evaluations_all.pdf>]
+<Ta_evaluations_all.pdf, id=884, page=63, 614.295pt x 794.97pt>
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 63>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page63 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 63>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page63 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Ta_evaluations_all.pdf Graphic file (type pdf)
+<use Ta_evaluations_all.pdf, page 63>
+Package pdftex.def Info: Ta_evaluations_all.pdf , page63 used on input line 88.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [70 <./Ta_evaluations_all.pdf>]
+<syllabus_381.pdf, id=897, 614.295pt x 794.97pt>
+File: syllabus_381.pdf Graphic file (type pdf)
+<use syllabus_381.pdf>
+Package pdftex.def Info: syllabus_381.pdf  used on input line 89.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: syllabus_381.pdf Graphic file (type pdf)
+<use syllabus_381.pdf>
+Package pdftex.def Info: syllabus_381.pdf  used on input line 89.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<syllabus_381.pdf, id=900, page=1, 614.295pt x 794.97pt>
+File: syllabus_381.pdf Graphic file (type pdf)
+<use syllabus_381.pdf, page 1>
+Package pdftex.def Info: syllabus_381.pdf , page1 used on input line 89.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: syllabus_381.pdf Graphic file (type pdf)
+<use syllabus_381.pdf, page 1>
+Package pdftex.def Info: syllabus_381.pdf , page1 used on input line 89.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: syllabus_381.pdf Graphic file (type pdf)
+<use syllabus_381.pdf, page 1>
+Package pdftex.def Info: syllabus_381.pdf , page1 used on input line 89.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: syllabus_381.pdf Graphic file (type pdf)
+<use syllabus_381.pdf, page 1>
+Package pdftex.def Info: syllabus_381.pdf , page1 used on input line 89.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: syllabus_381.pdf Graphic file (type pdf)
+<use syllabus_381.pdf, page 1>
+Package pdftex.def Info: syllabus_381.pdf , page1 used on input line 89.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [71 <./syllabus_381.pdf>]
+<syllabus_381.pdf, id=949, page=2, 614.295pt x 794.97pt>
+File: syllabus_381.pdf Graphic file (type pdf)
+<use syllabus_381.pdf, page 2>
+Package pdftex.def Info: syllabus_381.pdf , page2 used on input line 89.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: syllabus_381.pdf Graphic file (type pdf)
+<use syllabus_381.pdf, page 2>
+Package pdftex.def Info: syllabus_381.pdf , page2 used on input line 89.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: syllabus_381.pdf Graphic file (type pdf)
+<use syllabus_381.pdf, page 2>
+Package pdftex.def Info: syllabus_381.pdf , page2 used on input line 89.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [72 <./syllabus_381.pdf>]
+<syllabus_381.pdf, id=969, page=3, 614.295pt x 794.97pt>
+File: syllabus_381.pdf Graphic file (type pdf)
+<use syllabus_381.pdf, page 3>
+Package pdftex.def Info: syllabus_381.pdf , page3 used on input line 89.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: syllabus_381.pdf Graphic file (type pdf)
+<use syllabus_381.pdf, page 3>
+Package pdftex.def Info: syllabus_381.pdf , page3 used on input line 89.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: syllabus_381.pdf Graphic file (type pdf)
+<use syllabus_381.pdf, page 3>
+Package pdftex.def Info: syllabus_381.pdf , page3 used on input line 89.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [73 <./syllabus_381.pdf>]
+<syllabus_381.pdf, id=975, page=4, 614.295pt x 794.97pt>
+File: syllabus_381.pdf Graphic file (type pdf)
+<use syllabus_381.pdf, page 4>
+Package pdftex.def Info: syllabus_381.pdf , page4 used on input line 89.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: syllabus_381.pdf Graphic file (type pdf)
+<use syllabus_381.pdf, page 4>
+Package pdftex.def Info: syllabus_381.pdf , page4 used on input line 89.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: syllabus_381.pdf Graphic file (type pdf)
+<use syllabus_381.pdf, page 4>
+Package pdftex.def Info: syllabus_381.pdf , page4 used on input line 89.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [74 <./syllabus_381.pdf>]
+<final_exam.pdf, id=980, 614.295pt x 794.97pt>
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf>
+Package pdftex.def Info: final_exam.pdf  used on input line 90.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf>
+Package pdftex.def Info: final_exam.pdf  used on input line 90.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<final_exam.pdf, id=983, page=1, 614.295pt x 794.97pt>
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 1>
+Package pdftex.def Info: final_exam.pdf , page1 used on input line 90.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 1>
+Package pdftex.def Info: final_exam.pdf , page1 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 1>
+Package pdftex.def Info: final_exam.pdf , page1 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 1>
+Package pdftex.def Info: final_exam.pdf , page1 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 1>
+Package pdftex.def Info: final_exam.pdf , page1 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [75 <./final_exam.pdf>]
+<final_exam.pdf, id=1001, page=2, 614.295pt x 794.97pt>
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 2>
+Package pdftex.def Info: final_exam.pdf , page2 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 2>
+Package pdftex.def Info: final_exam.pdf , page2 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 2>
+Package pdftex.def Info: final_exam.pdf , page2 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [76 <./final_exam.pdf>]
+<final_exam.pdf, id=1009, page=3, 614.295pt x 794.97pt>
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 3>
+Package pdftex.def Info: final_exam.pdf , page3 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 3>
+Package pdftex.def Info: final_exam.pdf , page3 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 3>
+Package pdftex.def Info: final_exam.pdf , page3 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+
+[77 <./final_exam.pdf>]
+<final_exam.pdf, id=1025, page=4, 614.295pt x 794.97pt>
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 4>
+Package pdftex.def Info: final_exam.pdf , page4 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 4>
+Package pdftex.def Info: final_exam.pdf , page4 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 4>
+Package pdftex.def Info: final_exam.pdf , page4 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [78 <./final_exam.pdf>]
+<final_exam.pdf, id=1030, page=5, 614.295pt x 794.97pt>
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 5>
+Package pdftex.def Info: final_exam.pdf , page5 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 5>
+Package pdftex.def Info: final_exam.pdf , page5 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 5>
+Package pdftex.def Info: final_exam.pdf , page5 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [79 <./final_exam.pdf>]
+<final_exam.pdf, id=1036, page=6, 614.295pt x 794.97pt>
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 6>
+Package pdftex.def Info: final_exam.pdf , page6 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 6>
+Package pdftex.def Info: final_exam.pdf , page6 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 6>
+Package pdftex.def Info: final_exam.pdf , page6 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+
+[80 <./final_exam.pdf>]
+<final_exam.pdf, id=1052, page=7, 614.295pt x 794.97pt>
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 7>
+Package pdftex.def Info: final_exam.pdf , page7 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 7>
+Package pdftex.def Info: final_exam.pdf , page7 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 7>
+Package pdftex.def Info: final_exam.pdf , page7 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [81 <./final_exam.pdf>]
+<final_exam.pdf, id=1057, page=8, 614.295pt x 794.97pt>
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 8>
+Package pdftex.def Info: final_exam.pdf , page8 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 8>
+Package pdftex.def Info: final_exam.pdf , page8 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 8>
+Package pdftex.def Info: final_exam.pdf , page8 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [82 <./final_exam.pdf>]
+<final_exam.pdf, id=1063, page=9, 614.295pt x 794.97pt>
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 9>
+Package pdftex.def Info: final_exam.pdf , page9 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 9>
+Package pdftex.def Info: final_exam.pdf , page9 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 9>
+Package pdftex.def Info: final_exam.pdf , page9 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+
+[83 <./final_exam.pdf>]
+<final_exam.pdf, id=1069, page=10, 614.295pt x 794.97pt>
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 10>
+Package pdftex.def Info: final_exam.pdf , page10 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 10>
+Package pdftex.def Info: final_exam.pdf , page10 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: final_exam.pdf Graphic file (type pdf)
+<use final_exam.pdf, page 10>
+Package pdftex.def Info: final_exam.pdf , page10 used on input line 90.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [84 <./final_exam.pdf>] (calgary_teaching.aux)
+Package rerunfilecheck Info: File `calgary_teaching.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 10411 strings out of 478834
+ 162070 string characters out of 2845283
+ 458821 words of memory out of 3000000
+ 28129 multiletter control sequences out of 15000+600000
+ 407987 words of font info for 33 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,17n,80p,235b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/orcha/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
+}<C:/Users/orcha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmbx10.pfb><C:/Users/orcha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmbx12.pfb><C:/Users/orcha/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/orcha/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/orcha/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/orcha
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:
+/Users/orcha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mr17.pfb><C:/Users/orcha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmr6.pfb><C:/Users/orcha/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmr8.pfb><C:/Users/orcha/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/orcha/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/orcha/AppData/
+Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/or
+cha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb
+><C:/Users/orcha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/fpl/fplbj
+8a.pfb><C:/Users/orcha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/fpl
+/fplrc8a.pfb><C:/Users/orcha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/fpl/fplrij8a.pfb><C:/Users/orcha/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/urw/palatino/uplb8a.pfb><C:/Users/orcha/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/urw/palatino/uplr8a.pfb><C:/Users/orcha/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on calgary_teaching.pdf (84 pages, 3574130 bytes).
+PDF statistics:
+ 1121 PDF objects out of 1200 (max. 8388607)
+ 85 named destinations out of 1000 (max. 500000)
+ 506 words of extra memory for PDF output out of 10000 (max. 10000000)
+
